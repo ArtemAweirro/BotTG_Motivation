@@ -6,7 +6,7 @@ from glob import glob # для выгрузки картинок
 from random import choice
 
 def Botyara():
-    bot = Bot(token="6861913625:AAHA-o0p6SKWQW2bv_jfBmHtjlM5CQUyxxY")  # Объект бота
+    bot = Bot(token="XXX")  # Объект бота (токен убрал :) )
     dp = Dispatcher(bot)  # Диспетчер - позволяет отслеживать обновления
 
     buttons = ["Мотивация", "Информация"]
